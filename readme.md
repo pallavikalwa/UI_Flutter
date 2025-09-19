@@ -1,7 +1,5 @@
 # UI-Flutter Experiments 1–5
 
-Generated: 2025-09-19
-
 ## Overview
 
 This repository contains five Flutter UI experiments (Experiment 1 through Experiment 5).  
